@@ -1,4 +1,4 @@
-#No module named 'pyaudio'
+# No module named 'pyaudio'
 For some reason pip does not work, instead you could try first installing "pipwin" if you don't already have it Open a cmd and paste this:
 
 ```
