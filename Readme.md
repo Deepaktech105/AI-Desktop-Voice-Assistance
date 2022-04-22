@@ -16,3 +16,8 @@ It should work. But if you don't want to use pipwin.. just install it and then u
 ```
 pip uninstall pipwin
 ```
+
+StackOverflow solution link:
+```
+https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14
+```
